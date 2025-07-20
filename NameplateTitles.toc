@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: Nameplate Titles
+## Notes: Shows NPC job titles and player guilds on nameplates. Requires Awesome_WotLK client patch.
+## Version: 1.0
+## Author: Gnomechewer
+## SavedVariables: NameplateTitlesDB
+
+# This addon uses nameplate APIs added by the Awesome_WotLK client patch found at https://github.com/FrostAtom/awesome_wotlk
+# Currently, this addon is only tested with default blizzard nameplates.
+# This addon's code was created in part by artificial intelligence.
+
+NameplateTitles.lua
